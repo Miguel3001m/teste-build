@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-    <h1> teacher lindo</h1>
+    <h1> Miguel lindo</h1>
+    <img src="https://jpimg.com.br/uploads/2023/04/conheca-a-historia-do-coritiba-no-campeonato-brasileiro-de-futebol.jpg" alt="coxa" />
+   
     </>
   )
 }
